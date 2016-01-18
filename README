@@ -1,0 +1,8 @@
+Here's a minimal web site that you can run on Google App Engine.
+
+The only change that you'll need to make is to replace the
+application name with the name of the application that you 
+create in the Google developer's console.
+
+This site is running at http://a4aewgo.appspot.com
+
